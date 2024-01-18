@@ -8,7 +8,7 @@
   
    $token = "6966371200:AAFYk2rC6BOLs7u_NcM5gUbyjzTBcZiShhU";
    
-   $chat_id = "-4135198798";
+   $chat_id = "-1002047852405";
   
    // Формирование текста сообщения
   $message = "Заявка с сайта: $site\n";
